@@ -1,4 +1,5 @@
 #tests if string is all ascii
+#https://stackoverflow.com/questions/35889505/check-that-a-string-contains-only-ascii-characters/35895857
 daString = input("Paste string here: ")
 
 
