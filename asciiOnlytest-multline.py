@@ -2,7 +2,7 @@
 #https://stackoverflow.com/questions/11664443/how-do-i-read-multiple-lines-of-raw-input-in-python - Junuxx
 #https://stackoverflow.com/questions/35889505/check-that-a-string-contains-only-ascii-characters/35895857 - warvariuc
 
-print("Paste string here")
+print("Paste string here. Hit enter, then input ';;' then hit enter again")
 
 daString = ""
 stopword = ";;"
